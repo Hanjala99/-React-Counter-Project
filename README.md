@@ -19,7 +19,7 @@ These instructions will help you get a copy of the project up and running on you
 2. Navigate to the project directory:
 
    ```bash
-   cd react-counter-project
+   cd -React-Counter-Project 
 
 3. Install the project dependencies using npm or yarn:
 
